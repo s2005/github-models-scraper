@@ -10,18 +10,39 @@ Automated tool for tracking and archiving GitHub Marketplace models data. The sc
 - Cached requests to respect API limits
 - Rich console output for local debugging
 
-## Data Structure
+## Installation and Usage
 
-The scraped data is stored in `models.json` and includes:
-- Model name and ID
-- Registry information
-- Task type and model family
-- Licensing information
-- Token limits
-- Supported languages and modalities
-- And more
+### Using uv (Recommended)
 
-## Local Usage
+The script uses PEP 723 inline script dependencies, which works seamlessly with `uv run`:
+
+```bash
+# Install uv if you haven't already
+pip install uv
+
+# Run the script directly - uv will handle dependencies
+uv run script.py
+```
+
+The script includes this magic comment header:
+
+```python
+# /// script
+# requires-python = ">=3.12"
+# dependencies = [
+#     "click>=8.1.7",
+#     "rich>=13.7.0",
+#     "pydantic>=2.5.0",
+#     "requests>=2.31.0"
+# ]
+# ///
+```
+
+`uv` will automatically create a temporary virtual environment with these dependencies installed. This process takes just a few milliseconds once the `uv` cache has been populated.
+
+### Traditional Installation
+
+If you prefer not to use `uv`, you can install dependencies traditionally:
 
 ```bash
 # Install dependencies
@@ -46,8 +67,19 @@ python script.py -d
 - `-m, --model-family`: Filter by model family
 - `-f, --format`: Output format (table/json)
 - `-d, --debug`: Enable debug logging
-- `--cache-dir`: Cache directory path
+- `--cache-dir`: Cache directory path (default: .cache)
 - `--cache-timeout`: Cache timeout in seconds
+
+## Data Structure
+
+The scraped data is stored in `models.json` and includes:
+- Model name and ID
+- Registry information
+- Task type and model family
+- Licensing information
+- Token limits
+- Supported languages and modalities
+- And more
 
 ## Automated Updates
 
@@ -55,6 +87,14 @@ This repository uses GitHub Actions to automatically run the scraper every 6 hou
 1. Runs the scraper
 2. Checks for changes in the data
 3. Commits and pushes updates if changes are found
+
+## Acknowledgments
+
+This project was inspired by and builds upon the work of several excellent resources:
+
+- [Simon Willison](https://simonwillison.net/) - For his pioneering work on GitHub scraping tools and workflows, particularly the [openai-models scraper](https://github.com/simonw/scrape-openai-models)
+- [OpenWebUI community](https://openwebui.com/), specifically [@theonehong's models scraper](https://openwebui.com/f/theonehong/github_market_models_manifold) - For insights into marketplace data structure
+- [Anthropic Claude 3.5](https://www.anthropic.com/claude) - For assistance in code development and optimization
 
 ## License
 
