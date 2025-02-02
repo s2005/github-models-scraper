@@ -14,6 +14,13 @@ jobs:
 
       - name: Check branch protection
         run: |
+          # Allow the automated scraper workflow
+          if [[ "${{ github.actor }}" == "github-actions[bot]" && "${{ github.event.pull_request.title }}" == *"Update models data"* ]]; then
+            echo "Automated scraper workflow - allowing changes"
+            exit 0
+          fi
+          
+          # For all other cases, require review
           if [[ "${{ github.base_ref }}" == "main" ]]; then
             echo "Pull request targets main branch - requiring review"
             if [[ "${{ github.event.pull_request.requested_reviewers }}" == "[]" ]]; then
