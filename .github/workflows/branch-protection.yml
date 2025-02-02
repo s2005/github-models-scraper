@@ -1,0 +1,23 @@
+name: Branch Protection Check
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  check-branch-protection:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Check branch protection
+        run: |
+          if [[ "${{ github.base_ref }}" == "main" ]]; then
+            echo "Pull request targets main branch - requiring review"
+            if [[ "${{ github.event.pull_request.requested_reviewers }}" == "[]" ]]; then
+              echo "Error: Pull request must have at least one reviewer assigned"
+              exit 1
+            fi
+          fi
