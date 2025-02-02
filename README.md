@@ -83,7 +83,7 @@ The scraped data is stored in `models.json` and includes:
 
 ## Automated Updates
 
-This repository uses GitHub Actions to automatically run the scraper every 6 hours. The workflow:
+This repository uses GitHub Actions to automatically run the scraper once per day. The workflow:
 1. Runs the scraper
 2. Checks for changes in the data
 3. Commits and pushes updates if changes are found
