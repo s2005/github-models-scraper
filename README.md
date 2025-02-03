@@ -1,6 +1,6 @@
 # GitHub Models Scraper
 
-Automated tool for tracking and archiving GitHub Marketplace models data. The scraper runs every 6 hours and maintains a historical record of changes in the marketplace.
+Automated tool for tracking and archiving GitHub Marketplace models data. The scraper runs every day and maintains a historical record of changes in the marketplace.
 
 ## Features
 
