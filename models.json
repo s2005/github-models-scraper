@@ -1,5 +1,69 @@
 [
   {
+    "id": "Phi-4-multimodal-instruct",
+    "registry": "azureml",
+    "name": "Phi-4-multimodal-instruct",
+    "original_name": "Phi-4-multimodal-instruct",
+    "friendly_name": "Phi-4-multimodal-instruct",
+    "task": "chat-completion",
+    "publisher": "Microsoft",
+    "license": "",
+    "description": "",
+    "summary": "First small multimodal model to have 3 modality inputs (text, audio, image), excelling in quality and efficiency",
+    "model_family": "Microsoft",
+    "model_version": "",
+    "notes": "",
+    "tags": [
+      "vision",
+      " audio",
+      " summarization"
+    ],
+    "rate_limit_tier": "",
+    "supported_languages": [],
+    "max_output_tokens": 4096,
+    "max_input_tokens": 128000,
+    "training_data_date": "",
+    "evaluation": "",
+    "license_description": "",
+    "static_model": false,
+    "supported_input_modalities": [],
+    "type": "model",
+    "model_url": "/marketplace/models/azureml/Phi-4-multimodal-instruct",
+    "page": 1
+  },
+  {
+    "id": "Phi-4-mini-instruct",
+    "registry": "azureml",
+    "name": "Phi-4-mini-instruct",
+    "original_name": "Phi-4-mini-instruct",
+    "friendly_name": "Phi-4-mini-instruct",
+    "task": "chat-completion",
+    "publisher": "Microsoft",
+    "license": "",
+    "description": "",
+    "summary": "3.8B parameters Small Language Model outperforming larger models in reasoning, math, coding, and function-calling",
+    "model_family": "Microsoft",
+    "model_version": "",
+    "notes": "",
+    "tags": [
+      "reasoning",
+      "agents",
+      "multilingual"
+    ],
+    "rate_limit_tier": "",
+    "supported_languages": [],
+    "max_output_tokens": 4096,
+    "max_input_tokens": 128000,
+    "training_data_date": "",
+    "evaluation": "",
+    "license_description": "",
+    "static_model": false,
+    "supported_input_modalities": [],
+    "type": "model",
+    "model_url": "/marketplace/models/azureml/Phi-4-mini-instruct",
+    "page": 1
+  },
+  {
     "id": "o3-mini",
     "registry": "azure-openai",
     "name": "OpenAI o3-mini",
@@ -600,7 +664,7 @@
     "supported_input_modalities": [],
     "type": "model",
     "model_url": "/marketplace/models/azureml-ai21/AI21-Jamba-1-5-Large",
-    "page": 1
+    "page": 2
   },
   {
     "id": "Phi-3-5-mini-instruct",
@@ -632,7 +696,7 @@
     "supported_input_modalities": [],
     "type": "model",
     "model_url": "/marketplace/models/azureml/Phi-3-5-mini-instruct",
-    "page": 1
+    "page": 2
   },
   {
     "id": "Meta-Llama-3-1-8B-Instruct",
@@ -1219,7 +1283,7 @@
     "supported_input_modalities": [],
     "type": "model",
     "model_url": "/marketplace/models/azureml/Phi-3-mini-4k-instruct",
-    "page": 2
+    "page": 3
   },
   {
     "id": "Phi-3-mini-128k-instruct",
@@ -1251,7 +1315,7 @@
     "supported_input_modalities": [],
     "type": "model",
     "model_url": "/marketplace/models/azureml/Phi-3-mini-128k-instruct",
-    "page": 2
+    "page": 3
   },
   {
     "id": "Phi-3-medium-128k-instruct",
