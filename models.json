@@ -1,5 +1,36 @@
 [
   {
+    "id": "DeepSeek-V3",
+    "registry": "azureml-deepseek",
+    "name": "DeepSeek-V3",
+    "original_name": "DeepSeek-V3",
+    "friendly_name": "DeepSeek-V3",
+    "task": "chat-completion",
+    "publisher": "DeepSeek",
+    "license": "",
+    "description": "",
+    "summary": "a strong Mixture-of-Experts (MoE) language model with 671B total parameters with 37B activated for each token.",
+    "model_family": "DeepSeek",
+    "model_version": "",
+    "notes": "",
+    "tags": [
+      "coding",
+      "agents"
+    ],
+    "rate_limit_tier": "",
+    "supported_languages": [],
+    "max_output_tokens": 4096,
+    "max_input_tokens": 128000,
+    "training_data_date": "",
+    "evaluation": "",
+    "license_description": "",
+    "static_model": false,
+    "supported_input_modalities": [],
+    "type": "model",
+    "model_url": "/marketplace/models/azureml-deepseek/DeepSeek-V3",
+    "page": 1
+  },
+  {
     "id": "Phi-4-multimodal-instruct",
     "registry": "azureml",
     "name": "Phi-4-multimodal-instruct",
@@ -632,7 +663,7 @@
     "supported_input_modalities": [],
     "type": "model",
     "model_url": "/marketplace/models/azureml-ai21/AI21-Jamba-1-5-Mini",
-    "page": 1
+    "page": 2
   },
   {
     "id": "AI21-Jamba-1-5-Large",
@@ -1251,7 +1282,7 @@
     "supported_input_modalities": [],
     "type": "model",
     "model_url": "/marketplace/models/azureml-meta/Meta-Llama-3-8B-Instruct",
-    "page": 2
+    "page": 3
   },
   {
     "id": "Phi-3-mini-4k-instruct",
