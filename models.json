@@ -10,7 +10,7 @@
     "license": "",
     "description": "",
     "summary": "a strong Mixture-of-Experts (MoE) language model with 671B total parameters with 37B activated for each token.",
-    "model_family": "DeepSeek",
+    "model_family": "unknown",
     "model_version": "",
     "notes": "",
     "tags": [
@@ -41,7 +41,7 @@
     "license": "",
     "description": "",
     "summary": "First small multimodal model to have 3 modality inputs (text, audio, image), excelling in quality and efficiency",
-    "model_family": "Microsoft",
+    "model_family": "unknown",
     "model_version": "",
     "notes": "",
     "tags": [
@@ -73,7 +73,7 @@
     "license": "",
     "description": "",
     "summary": "3.8B parameters Small Language Model outperforming larger models in reasoning, math, coding, and function-calling",
-    "model_family": "Microsoft",
+    "model_family": "unknown",
     "model_version": "",
     "notes": "",
     "tags": [
@@ -105,7 +105,7 @@
     "license": "",
     "description": "",
     "summary": "o3-mini includes the o1 features with significant cost-efficiencies for scenarios requiring high performance.",
-    "model_family": "OpenAI",
+    "model_family": "unknown",
     "model_version": "",
     "notes": "",
     "tags": [
@@ -137,7 +137,7 @@
     "license": "",
     "description": "",
     "summary": "DeepSeek-R1 excels at reasoning tasks using a step-by-step training process, such as language, scientific reasoning, and coding tasks.",
-    "model_family": "DeepSeek",
+    "model_family": "unknown",
     "model_version": "",
     "notes": "",
     "tags": [
@@ -169,7 +169,7 @@
     "license": "",
     "description": "",
     "summary": "Phi-4 14B, a highly capable model for low latency scenarios.",
-    "model_family": "Microsoft",
+    "model_family": "unknown",
     "model_version": "",
     "notes": "",
     "tags": [
@@ -201,7 +201,7 @@
     "license": "",
     "description": "",
     "summary": "Codestral 25.01 by Mistral AI is designed for code generation, supporting 80+ programming languages, and optimized for tasks like code completion and fill-in-the-middle",
-    "model_family": "Mistral AI",
+    "model_family": "unknown",
     "model_version": "",
     "notes": "",
     "tags": [
@@ -232,7 +232,7 @@
     "license": "",
     "description": "",
     "summary": "Focused on advanced reasoning and solving complex problems, including math and science tasks. Ideal for applications that require deep contextual understanding and agentic workflows.",
-    "model_family": "OpenAI",
+    "model_family": "unknown",
     "model_version": "",
     "notes": "",
     "tags": [
@@ -264,7 +264,7 @@
     "license": "",
     "description": "",
     "summary": "Mistral Large 24.11 offers enhanced system prompts, advanced reasoning and function calling capabilities.",
-    "model_family": "Mistral AI",
+    "model_family": "unknown",
     "model_version": "",
     "notes": "",
     "tags": [
@@ -296,7 +296,7 @@
     "license": "",
     "description": "",
     "summary": "Llama 3.3 70B Instruct offers enhanced reasoning, math, and instruction following with performance comparable to Llama 3.1 405B.",
-    "model_family": "Meta",
+    "model_family": "unknown",
     "model_version": "",
     "notes": "",
     "tags": [
@@ -326,7 +326,7 @@
     "license": "",
     "description": "",
     "summary": "JAIS 30b Chat is an auto-regressive bilingual LLM for Arabic & English with state-of-the-art capabilities in Arabic.",
-    "model_family": "Core42",
+    "model_family": "unknown",
     "model_version": "",
     "notes": "",
     "tags": [
@@ -358,7 +358,7 @@
     "license": "",
     "description": "",
     "summary": "Ministral 3B is a state-of-the-art Small Language Model (SLM) optimized for edge computing and on-device applications. As it is designed for low-latency and compute-efficient inference, it it also the perfect model for standard GenAI applications that have",
-    "model_family": "Mistral AI",
+    "model_family": "unknown",
     "model_version": "",
     "notes": "",
     "tags": [
@@ -390,7 +390,7 @@
     "license": "",
     "description": "",
     "summary": "Advanced image reasoning capabilities for visual understanding agentic apps.",
-    "model_family": "Meta",
+    "model_family": "unknown",
     "model_version": "",
     "notes": "",
     "tags": [
@@ -422,7 +422,7 @@
     "license": "",
     "description": "",
     "summary": "Excels in image reasoning capabilities on high-res images for visual understanding apps.",
-    "model_family": "Meta",
+    "model_family": "unknown",
     "model_version": "",
     "notes": "",
     "tags": [
@@ -454,7 +454,7 @@
     "license": "",
     "description": "",
     "summary": "Command R+ is a state-of-the-art RAG-optimized model designed to tackle enterprise-grade workloads.",
-    "model_family": "Cohere",
+    "model_family": "unknown",
     "model_version": "",
     "notes": "",
     "tags": [
@@ -485,7 +485,7 @@
     "license": "",
     "description": "",
     "summary": "Command R is a scalable generative model targeting RAG and Tool Use to enable production-scale AI for enterprise.",
-    "model_family": "Cohere",
+    "model_family": "unknown",
     "model_version": "",
     "notes": "",
     "tags": [
@@ -516,7 +516,7 @@
     "license": "",
     "description": "",
     "summary": "A new mixture of experts model",
-    "model_family": "Microsoft",
+    "model_family": "unknown",
     "model_version": "",
     "notes": "",
     "tags": [
@@ -548,7 +548,7 @@
     "license": "",
     "description": "",
     "summary": "Focused on advanced reasoning and solving complex problems, including math and science tasks. Ideal for applications that require deep contextual understanding and agentic workflows.",
-    "model_family": "OpenAI",
+    "model_family": "unknown",
     "model_version": "",
     "notes": "",
     "tags": [
@@ -580,7 +580,7 @@
     "license": "",
     "description": "",
     "summary": "Smaller, faster, and 80% cheaper than o1-preview, performs well at code generation and small context operations.",
-    "model_family": "OpenAI",
+    "model_family": "unknown",
     "model_version": "",
     "notes": "",
     "tags": [
@@ -612,7 +612,7 @@
     "license": "",
     "description": "",
     "summary": "Refresh of Phi-3-vision model.",
-    "model_family": "Microsoft",
+    "model_family": "unknown",
     "model_version": "",
     "notes": "",
     "tags": [
@@ -644,7 +644,7 @@
     "license": "",
     "description": "",
     "summary": "A 52B parameters (12B active) multilingual model, offering a 256K long context window, function calling, structured output, and grounded generation.",
-    "model_family": "AI21 Labs",
+    "model_family": "unknown",
     "model_version": "",
     "notes": "",
     "tags": [
@@ -676,7 +676,7 @@
     "license": "",
     "description": "",
     "summary": "A 398B parameters (94B active) multilingual model, offering a 256K long context window, function calling, structured output, and grounded generation.",
-    "model_family": "AI21 Labs",
+    "model_family": "unknown",
     "model_version": "",
     "notes": "",
     "tags": [
@@ -708,7 +708,7 @@
     "license": "",
     "description": "",
     "summary": "Refresh of Phi-3-mini model.",
-    "model_family": "Microsoft",
+    "model_family": "unknown",
     "model_version": "",
     "notes": "",
     "tags": [
@@ -740,7 +740,7 @@
     "license": "",
     "description": "",
     "summary": "The Llama 3.1 instruction tuned text only models are optimized for multilingual dialogue use cases and outperform many of the available open source and closed chat models on common industry benchmarks.",
-    "model_family": "Meta",
+    "model_family": "unknown",
     "model_version": "",
     "notes": "",
     "tags": [
@@ -770,7 +770,7 @@
     "license": "",
     "description": "",
     "summary": "The Llama 3.1 instruction tuned text only models are optimized for multilingual dialogue use cases and outperform many of the available open source and closed chat models on common industry benchmarks.",
-    "model_family": "Meta",
+    "model_family": "unknown",
     "model_version": "",
     "notes": "",
     "tags": [
@@ -800,7 +800,7 @@
     "license": "",
     "description": "",
     "summary": "The Llama 3.1 instruction tuned text only models are optimized for multilingual dialogue use cases and outperform many of the available open source and closed chat models on common industry benchmarks.",
-    "model_family": "Meta",
+    "model_family": "unknown",
     "model_version": "",
     "notes": "",
     "tags": [
@@ -830,7 +830,7 @@
     "license": "",
     "description": "",
     "summary": "Mistral Large (2407) is an advanced Large Language Model (LLM) with state-of-the-art reasoning, knowledge and coding capabilities.",
-    "model_family": "Mistral AI",
+    "model_family": "unknown",
     "model_version": "",
     "notes": "",
     "tags": [
@@ -862,7 +862,7 @@
     "license": "",
     "description": "",
     "summary": "Mistral Nemo is a cutting-edge Language Model (LLM) boasting state-of-the-art reasoning, world knowledge, and coding capabilities within its size category.",
-    "model_family": "Mistral AI",
+    "model_family": "unknown",
     "model_version": "",
     "notes": "",
     "tags": [
@@ -894,7 +894,7 @@
     "license": "",
     "description": "",
     "summary": "A 7B parameters model, proves better quality than Phi-3-mini, with a focus on high-quality, reasoning-dense data.",
-    "model_family": "Microsoft",
+    "model_family": "unknown",
     "model_version": "",
     "notes": "",
     "tags": [
@@ -925,7 +925,7 @@
     "license": "",
     "description": "",
     "summary": "Same Phi-3-small model, but with a larger context size for RAG or few shot prompting.",
-    "model_family": "Microsoft",
+    "model_family": "unknown",
     "model_version": "",
     "notes": "",
     "tags": [
@@ -957,7 +957,7 @@
     "license": "",
     "description": "",
     "summary": "Cohere Embed Multilingual is the market's leading text representation model used for semantic search, retrieval-augmented generation (RAG), classification, and clustering.",
-    "model_family": "Cohere",
+    "model_family": "unknown",
     "model_version": "",
     "notes": "",
     "tags": [
@@ -987,7 +987,7 @@
     "license": "",
     "description": "",
     "summary": "Cohere Embed English is the market's leading text representation model used for semantic search, retrieval-augmented generation (RAG), classification, and clustering.",
-    "model_family": "Cohere",
+    "model_family": "unknown",
     "model_version": "",
     "notes": "",
     "tags": [
@@ -1017,7 +1017,7 @@
     "license": "",
     "description": "",
     "summary": "Text-embedding-3 series models are the latest and most capable embedding model from OpenAI.",
-    "model_family": "OpenAI",
+    "model_family": "unknown",
     "model_version": "",
     "notes": "",
     "tags": [
@@ -1047,7 +1047,7 @@
     "license": "",
     "description": "",
     "summary": "Text-embedding-3 series models are the latest and most capable embedding model from OpenAI.",
-    "model_family": "OpenAI",
+    "model_family": "unknown",
     "model_version": "",
     "notes": "",
     "tags": [
@@ -1077,7 +1077,7 @@
     "license": "",
     "description": "",
     "summary": "An affordable, efficient AI solution for diverse text and image tasks.",
-    "model_family": "OpenAI",
+    "model_family": "unknown",
     "model_version": "",
     "notes": "",
     "tags": [
@@ -1109,7 +1109,7 @@
     "license": "",
     "description": "",
     "summary": "Command R is a scalable generative model targeting RAG and Tool Use to enable production-scale AI for enterprise.",
-    "model_family": "Cohere",
+    "model_family": "unknown",
     "model_version": "",
     "notes": "",
     "tags": [
@@ -1140,7 +1140,7 @@
     "license": "",
     "description": "",
     "summary": "Command R+ is a state-of-the-art RAG-optimized model designed to tackle enterprise-grade workloads.",
-    "model_family": "Cohere",
+    "model_family": "unknown",
     "model_version": "",
     "notes": "",
     "tags": [
@@ -1171,7 +1171,7 @@
     "license": "",
     "description": "",
     "summary": "Mistral's flagship model that's ideal for complex tasks that require large reasoning capabilities or are highly specialized (Synthetic Text Generation, Code Generation, RAG, or Agents).",
-    "model_family": "Mistral AI",
+    "model_family": "unknown",
     "model_version": "",
     "notes": "",
     "tags": [
@@ -1204,7 +1204,7 @@
     "license": "",
     "description": "",
     "summary": "Mistral Small can be used on any language-based task that requires high efficiency and low latency.",
-    "model_family": "Mistral AI",
+    "model_family": "unknown",
     "model_version": "",
     "notes": "",
     "tags": [
@@ -1235,7 +1235,7 @@
     "license": "",
     "description": "",
     "summary": "A powerful 70-billion parameter model excelling in reasoning, coding, and broad language applications.",
-    "model_family": "Meta",
+    "model_family": "unknown",
     "model_version": "",
     "notes": "",
     "tags": [
@@ -1265,7 +1265,7 @@
     "license": "",
     "description": "",
     "summary": "A versatile 8-billion parameter model optimized for dialogue and text generation tasks.",
-    "model_family": "Meta",
+    "model_family": "unknown",
     "model_version": "",
     "notes": "",
     "tags": [
@@ -1295,7 +1295,7 @@
     "license": "",
     "description": "",
     "summary": "Tiniest member of the Phi-3 family. Optimized for both quality and low latency.",
-    "model_family": "Microsoft",
+    "model_family": "unknown",
     "model_version": "",
     "notes": "",
     "tags": [
@@ -1327,7 +1327,7 @@
     "license": "",
     "description": "",
     "summary": "Same Phi-3-mini model, but with a larger context size for RAG or few shot prompting.",
-    "model_family": "Microsoft",
+    "model_family": "unknown",
     "model_version": "",
     "notes": "",
     "tags": [
@@ -1359,7 +1359,7 @@
     "license": "",
     "description": "",
     "summary": "Same Phi-3-medium model, but with a larger context size for RAG or few shot prompting.",
-    "model_family": "Microsoft",
+    "model_family": "unknown",
     "model_version": "",
     "notes": "",
     "tags": [
@@ -1391,7 +1391,7 @@
     "license": "",
     "description": "",
     "summary": "A 14B parameters model, proves better quality than Phi-3-mini, with a focus on high-quality, reasoning-dense data.",
-    "model_family": "Microsoft",
+    "model_family": "unknown",
     "model_version": "",
     "notes": "",
     "tags": [
@@ -1422,7 +1422,7 @@
     "license": "",
     "description": "",
     "summary": "OpenAI's most advanced multimodal model in the gpt-4o family. Can handle both text and image inputs.",
-    "model_family": "OpenAI",
+    "model_family": "unknown",
     "model_version": "",
     "notes": "",
     "tags": [
