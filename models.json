@@ -9,7 +9,7 @@
     "publisher": "DeepSeek",
     "license": "",
     "description": "",
-    "summary": "a strong Mixture-of-Experts (MoE) language model with 671B total parameters with 37B activated for each token.",
+    "summary": "A strong Mixture-of-Experts (MoE) language model with 671B total parameters with 37B activated for each token.",
     "model_family": "unknown",
     "model_version": "",
     "notes": "",
