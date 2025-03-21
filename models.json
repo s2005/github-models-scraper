@@ -1,5 +1,37 @@
 [
   {
+    "id": "mistral-small-2503",
+    "registry": "azureml-mistral",
+    "name": "Mistral Small 3.1",
+    "original_name": "mistral-small-2503",
+    "friendly_name": "Mistral Small 3.1",
+    "task": "chat-completion",
+    "publisher": "Mistral AI",
+    "license": "",
+    "description": "",
+    "summary": "Enhanced Mistral Small 3 with multimodal capabilities and a 128k context length.",
+    "model_family": "unknown",
+    "model_version": "",
+    "notes": "",
+    "tags": [
+      "multipurpose",
+      "vision",
+      "multimodal"
+    ],
+    "rate_limit_tier": "",
+    "supported_languages": [],
+    "max_output_tokens": 4096,
+    "max_input_tokens": 128000,
+    "training_data_date": "",
+    "evaluation": "",
+    "license_description": "",
+    "static_model": false,
+    "supported_input_modalities": [],
+    "type": "model",
+    "model_url": "/marketplace/models/azureml-mistral/mistral-small-2503",
+    "page": 1
+  },
+  {
     "id": "DeepSeek-V3",
     "registry": "azureml-deepseek",
     "name": "DeepSeek-V3",
@@ -631,7 +663,7 @@
     "supported_input_modalities": [],
     "type": "model",
     "model_url": "/marketplace/models/azureml/Phi-3-5-vision-instruct",
-    "page": 1
+    "page": 2
   },
   {
     "id": "AI21-Jamba-1-5-Mini",
@@ -1252,7 +1284,7 @@
     "supported_input_modalities": [],
     "type": "model",
     "model_url": "/marketplace/models/azureml-meta/Meta-Llama-3-70B-Instruct",
-    "page": 2
+    "page": 3
   },
   {
     "id": "Meta-Llama-3-8B-Instruct",
