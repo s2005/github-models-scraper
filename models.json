@@ -1,5 +1,69 @@
 [
   {
+    "id": "Llama-4-Scout-17B-16E-Instruct",
+    "registry": "azureml-meta",
+    "name": "Llama 4 Scout 17B 16E Instruct",
+    "original_name": "Llama-4-Scout-17B-16E-Instruct",
+    "friendly_name": "Llama 4 Scout 17B 16E Instruct",
+    "task": "chat-completion",
+    "publisher": "Meta",
+    "license": "",
+    "description": "",
+    "summary": "Llama 4 Scout 17B 16E Instruct is great at multi-document summarization, parsing extensive user activity for personalized tasks, and reasoning over vast codebases.",
+    "model_family": "unknown",
+    "model_version": "",
+    "notes": "",
+    "tags": [
+      "multimodal",
+      "conversation",
+      "multilingual"
+    ],
+    "rate_limit_tier": "",
+    "supported_languages": [],
+    "max_output_tokens": 4096,
+    "max_input_tokens": 10000000,
+    "training_data_date": "",
+    "evaluation": "",
+    "license_description": "",
+    "static_model": false,
+    "supported_input_modalities": [],
+    "type": "model",
+    "model_url": "/marketplace/models/azureml-meta/Llama-4-Scout-17B-16E-Instruct",
+    "page": 1
+  },
+  {
+    "id": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+    "registry": "azureml-meta",
+    "name": "Llama 4 Maverick 17B 128E Instruct FP8",
+    "original_name": "Llama-4-Maverick-17B-128E-Instruct-FP8",
+    "friendly_name": "Llama 4 Maverick 17B 128E Instruct FP8",
+    "task": "chat-completion",
+    "publisher": "Meta",
+    "license": "",
+    "description": "",
+    "summary": "Llama 4 Maverick 17B 128E Instruct FP8 is great at precise image understanding and creative writing, offering high quality at a lower price compared to Llama 3.3 70B",
+    "model_family": "unknown",
+    "model_version": "",
+    "notes": "",
+    "tags": [
+      "multimodal",
+      "conversation",
+      "multilingual"
+    ],
+    "rate_limit_tier": "",
+    "supported_languages": [],
+    "max_output_tokens": 4096,
+    "max_input_tokens": 1000000,
+    "training_data_date": "",
+    "evaluation": "",
+    "license_description": "",
+    "static_model": false,
+    "supported_input_modalities": [],
+    "type": "model",
+    "model_url": "/marketplace/models/azureml-meta/Llama-4-Maverick-17B-128E-Instruct-FP8",
+    "page": 1
+  },
+  {
     "id": "DeepSeek-V3-0324",
     "registry": "azureml-deepseek",
     "name": "DeepSeek-V3-0324",
@@ -598,7 +662,7 @@
     "supported_input_modalities": [],
     "type": "model",
     "model_url": "/marketplace/models/azureml/Phi-3-5-MoE-instruct",
-    "page": 1
+    "page": 2
   },
   {
     "id": "o1-preview",
@@ -630,7 +694,7 @@
     "supported_input_modalities": [],
     "type": "model",
     "model_url": "/marketplace/models/azure-openai/o1-preview",
-    "page": 1
+    "page": 2
   },
   {
     "id": "o1-mini",
@@ -1221,7 +1285,7 @@
     "supported_input_modalities": [],
     "type": "model",
     "model_url": "/marketplace/models/azureml-cohere/Cohere-command-r-plus",
-    "page": 2
+    "page": 3
   },
   {
     "id": "Mistral-large",
@@ -1254,7 +1318,7 @@
     "supported_input_modalities": [],
     "type": "model",
     "model_url": "/marketplace/models/azureml-mistral/Mistral-large",
-    "page": 2
+    "page": 3
   },
   {
     "id": "Mistral-small",
