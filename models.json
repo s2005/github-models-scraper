@@ -1,5 +1,37 @@
 [
   {
+    "id": "gpt-4-1",
+    "registry": "azure-openai",
+    "name": "OpenAI GPT-4.1",
+    "original_name": "gpt-4-1",
+    "friendly_name": "OpenAI GPT-4.1",
+    "task": "chat-completion",
+    "publisher": "OpenAI",
+    "license": "",
+    "description": "",
+    "summary": "gpt-4.1 outperform gpt-4o across the board, with major gains in coding, instruction following, and long-context understanding",
+    "model_family": "unknown",
+    "model_version": "",
+    "notes": "",
+    "tags": [
+      "multipurpose",
+      "multilingual",
+      "multimodal"
+    ],
+    "rate_limit_tier": "",
+    "supported_languages": [],
+    "max_output_tokens": 32768,
+    "max_input_tokens": 1048576,
+    "training_data_date": "",
+    "evaluation": "",
+    "license_description": "",
+    "static_model": false,
+    "supported_input_modalities": [],
+    "type": "model",
+    "model_url": "/marketplace/models/azure-openai/gpt-4-1",
+    "page": 1
+  },
+  {
     "id": "Llama-4-Scout-17B-16E-Instruct",
     "registry": "azureml-meta",
     "name": "Llama 4 Scout 17B 16E Instruct",
@@ -630,7 +662,7 @@
     "supported_input_modalities": [],
     "type": "model",
     "model_url": "/marketplace/models/azureml-cohere/Cohere-command-r-08-2024",
-    "page": 1
+    "page": 2
   },
   {
     "id": "Phi-3-5-MoE-instruct",
@@ -1254,7 +1286,7 @@
     "supported_input_modalities": [],
     "type": "model",
     "model_url": "/marketplace/models/azureml-cohere/Cohere-command-r",
-    "page": 2
+    "page": 3
   },
   {
     "id": "Cohere-command-r-plus",
