@@ -1,5 +1,36 @@
 [
   {
+    "id": "cohere-command-a",
+    "registry": "azureml-cohere",
+    "name": "Cohere Command A",
+    "original_name": "cohere-command-a",
+    "friendly_name": "Cohere Command A",
+    "task": "chat-completion",
+    "publisher": "Cohere",
+    "license": "",
+    "description": "",
+    "summary": "Command A is a highly efficient generative model that excels at agentic and multilingual use cases.",
+    "model_family": "unknown",
+    "model_version": "",
+    "notes": "",
+    "tags": [
+      "rag",
+      " multilingual"
+    ],
+    "rate_limit_tier": "",
+    "supported_languages": [],
+    "max_output_tokens": 4096,
+    "max_input_tokens": 131072,
+    "training_data_date": "",
+    "evaluation": "",
+    "license_description": "",
+    "static_model": false,
+    "supported_input_modalities": [],
+    "type": "model",
+    "model_url": "/marketplace/models/azureml-cohere/cohere-command-a",
+    "page": 1
+  },
+  {
     "id": "gpt-4-1-mini",
     "registry": "azure-openai",
     "name": "OpenAI GPT-4.1-mini",
@@ -633,7 +664,7 @@
     "supported_input_modalities": [],
     "type": "model",
     "model_url": "/marketplace/models/azureml-meta/Llama-3-2-11B-Vision-Instruct",
-    "page": 1
+    "page": 2
   },
   {
     "id": "Cohere-command-r-plus-08-2024",
@@ -1256,7 +1287,7 @@
     "supported_input_modalities": [],
     "type": "model",
     "model_url": "/marketplace/models/azure-openai/text-embedding-3-large",
-    "page": 2
+    "page": 3
   },
   {
     "id": "gpt-4o-mini",
@@ -1350,39 +1381,6 @@
     "supported_input_modalities": [],
     "type": "model",
     "model_url": "/marketplace/models/azureml-cohere/Cohere-command-r-plus",
-    "page": 3
-  },
-  {
-    "id": "Mistral-large",
-    "registry": "azureml-mistral",
-    "name": "Mistral Large",
-    "original_name": "Mistral-large",
-    "friendly_name": "Mistral Large",
-    "task": "chat-completion",
-    "publisher": "Mistral AI",
-    "license": "",
-    "description": "",
-    "summary": "Mistral's flagship model that's ideal for complex tasks that require large reasoning capabilities or are highly specialized (Synthetic Text Generation, Code Generation, RAG, or Agents).",
-    "model_family": "unknown",
-    "model_version": "",
-    "notes": "",
-    "tags": [
-      "reasoning",
-      "rag",
-      "agents",
-      "multilingual"
-    ],
-    "rate_limit_tier": "",
-    "supported_languages": [],
-    "max_output_tokens": 4096,
-    "max_input_tokens": 32768,
-    "training_data_date": "",
-    "evaluation": "",
-    "license_description": "",
-    "static_model": false,
-    "supported_input_modalities": [],
-    "type": "model",
-    "model_url": "/marketplace/models/azureml-mistral/Mistral-large",
     "page": 3
   },
   {
