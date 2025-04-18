@@ -1,5 +1,37 @@
 [
   {
+    "id": "MAI-DS-R1",
+    "registry": "azureml",
+    "name": "MAI-DS-R1",
+    "original_name": "MAI-DS-R1",
+    "friendly_name": "MAI-DS-R1",
+    "task": "chat-completion",
+    "publisher": "Microsoft",
+    "license": "",
+    "description": "",
+    "summary": "MAI-DS-R1 is a DeepSeek-R1 reasoning model that has been post-trained by the Microsoft AI team to fill in information gaps in the previous version of the model and improve its harm protections while maintaining R1 reasoning capabilities.",
+    "model_family": "unknown",
+    "model_version": "",
+    "notes": "",
+    "tags": [
+      "reasoning",
+      "coding",
+      "agents"
+    ],
+    "rate_limit_tier": "",
+    "supported_languages": [],
+    "max_output_tokens": 4096,
+    "max_input_tokens": 128000,
+    "training_data_date": "",
+    "evaluation": "",
+    "license_description": "",
+    "static_model": false,
+    "supported_input_modalities": [],
+    "type": "model",
+    "model_url": "/marketplace/models/azureml/MAI-DS-R1",
+    "page": 1
+  },
+  {
     "id": "o4-mini",
     "registry": "azure-openai",
     "name": "OpenAI o4-mini",
@@ -633,7 +665,7 @@
     "supported_input_modalities": [],
     "type": "model",
     "model_url": "/marketplace/models/azureml/Phi-3-medium-4k-instruct",
-    "page": 1
+    "page": 2
   },
   {
     "id": "Phi-3-medium-128k-instruct",
@@ -1258,7 +1290,7 @@
     "supported_input_modalities": [],
     "type": "model",
     "model_url": "/marketplace/models/azureml-meta/Meta-Llama-3-70B-Instruct",
-    "page": 2
+    "page": 3
   },
   {
     "id": "Llama-3-3-70B-Instruct",
