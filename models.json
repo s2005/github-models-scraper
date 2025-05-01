@@ -1,5 +1,69 @@
 [
   {
+    "id": "Phi-4-reasoning",
+    "registry": "azureml",
+    "name": "Phi-4-Reasoning",
+    "original_name": "Phi-4-reasoning",
+    "friendly_name": "Phi-4-Reasoning",
+    "task": "chat-completion",
+    "publisher": "Microsoft",
+    "license": "",
+    "description": "",
+    "summary": "State-of-the-art open-weight reasoning model.",
+    "model_family": "unknown",
+    "model_version": "",
+    "notes": "",
+    "tags": [
+      "reasoning",
+      " large context",
+      " low latency"
+    ],
+    "rate_limit_tier": "",
+    "supported_languages": [],
+    "max_output_tokens": 4096,
+    "max_input_tokens": 32768,
+    "training_data_date": "",
+    "evaluation": "",
+    "license_description": "",
+    "static_model": false,
+    "supported_input_modalities": [],
+    "type": "model",
+    "model_url": "/marketplace/models/azureml/Phi-4-reasoning",
+    "page": 1
+  },
+  {
+    "id": "Phi-4-mini-reasoning",
+    "registry": "azureml",
+    "name": "Phi-4-mini-reasoning",
+    "original_name": "Phi-4-mini-reasoning",
+    "friendly_name": "Phi-4-mini-reasoning",
+    "task": "chat-completion",
+    "publisher": "Microsoft",
+    "license": "",
+    "description": "",
+    "summary": "Lightweight math reasoning model optimized for multi-step problem solving",
+    "model_family": "unknown",
+    "model_version": "",
+    "notes": "",
+    "tags": [
+      "reasoning",
+      " large context",
+      " low latency"
+    ],
+    "rate_limit_tier": "",
+    "supported_languages": [],
+    "max_output_tokens": 4096,
+    "max_input_tokens": 128000,
+    "training_data_date": "",
+    "evaluation": "",
+    "license_description": "",
+    "static_model": false,
+    "supported_input_modalities": [],
+    "type": "model",
+    "model_url": "/marketplace/models/azureml/Phi-4-mini-reasoning",
+    "page": 1
+  },
+  {
     "id": "MAI-DS-R1",
     "registry": "azureml",
     "name": "MAI-DS-R1",
@@ -602,7 +666,7 @@
     "supported_input_modalities": [],
     "type": "model",
     "model_url": "/marketplace/models/azureml/Phi-3-mini-4k-instruct",
-    "page": 1
+    "page": 2
   },
   {
     "id": "Phi-3-mini-128k-instruct",
@@ -634,7 +698,7 @@
     "supported_input_modalities": [],
     "type": "model",
     "model_url": "/marketplace/models/azureml/Phi-3-mini-128k-instruct",
-    "page": 1
+    "page": 2
   },
   {
     "id": "Phi-3-medium-4k-instruct",
@@ -984,37 +1048,6 @@
     "page": 2
   },
   {
-    "id": "Mistral-small",
-    "registry": "azureml-mistral",
-    "name": "Mistral Small",
-    "original_name": "Mistral-small",
-    "friendly_name": "Mistral Small",
-    "task": "chat-completion",
-    "publisher": "Mistral AI",
-    "license": "",
-    "description": "",
-    "summary": "Mistral Small can be used on any language-based task that requires high efficiency and low latency.",
-    "model_family": "unknown",
-    "model_version": "",
-    "notes": "",
-    "tags": [
-      "low latency",
-      "multilingual"
-    ],
-    "rate_limit_tier": "",
-    "supported_languages": [],
-    "max_output_tokens": 4096,
-    "max_input_tokens": 32768,
-    "training_data_date": "",
-    "evaluation": "",
-    "license_description": "",
-    "static_model": false,
-    "supported_input_modalities": [],
-    "type": "model",
-    "model_url": "/marketplace/models/azureml-mistral/Mistral-small",
-    "page": 2
-  },
-  {
     "id": "Mistral-Nemo",
     "registry": "azureml-mistral",
     "name": "Mistral Nemo",
@@ -1260,7 +1293,7 @@
     "supported_input_modalities": [],
     "type": "model",
     "model_url": "/marketplace/models/azureml-meta/Meta-Llama-3-8B-Instruct",
-    "page": 2
+    "page": 3
   },
   {
     "id": "Meta-Llama-3-70B-Instruct",
