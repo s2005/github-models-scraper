@@ -160,37 +160,6 @@
     "page": 1
   },
   {
-    "id": "embed-v-4-0",
-    "registry": "azureml-cohere",
-    "name": "Cohere Embed 4",
-    "original_name": "embed-v-4-0",
-    "friendly_name": "Cohere Embed 4",
-    "task": "embeddings",
-    "publisher": "Cohere",
-    "license": "",
-    "description": "",
-    "summary": "Embed 4 transforms texts and images into numerical vectors",
-    "model_family": "unknown",
-    "model_version": "",
-    "notes": "",
-    "tags": [
-      "multilingual",
-      "multimodal"
-    ],
-    "rate_limit_tier": "",
-    "supported_languages": [],
-    "max_output_tokens": 4096,
-    "max_input_tokens": 131072,
-    "training_data_date": "",
-    "evaluation": "",
-    "license_description": "",
-    "static_model": false,
-    "supported_input_modalities": [],
-    "type": "model",
-    "model_url": "/marketplace/models/azureml-cohere/embed-v-4-0",
-    "page": 1
-  },
-  {
     "id": "cohere-command-a",
     "registry": "azureml-cohere",
     "name": "Cohere Command A",
@@ -666,7 +635,7 @@
     "supported_input_modalities": [],
     "type": "model",
     "model_url": "/marketplace/models/azureml/Phi-3-mini-4k-instruct",
-    "page": 2
+    "page": 1
   },
   {
     "id": "Phi-3-mini-128k-instruct",
@@ -1112,38 +1081,6 @@
     "page": 2
   },
   {
-    "id": "Mistral-large-2407",
-    "registry": "azureml-mistral",
-    "name": "Mistral Large (2407)",
-    "original_name": "Mistral-large-2407",
-    "friendly_name": "Mistral Large (2407)",
-    "task": "chat-completion",
-    "publisher": "Mistral AI",
-    "license": "",
-    "description": "",
-    "summary": "Mistral Large (2407) is an advanced Large Language Model (LLM) with state-of-the-art reasoning, knowledge and coding capabilities.",
-    "model_family": "unknown",
-    "model_version": "",
-    "notes": "",
-    "tags": [
-      "reasoning",
-      "rag",
-      "agents"
-    ],
-    "rate_limit_tier": "",
-    "supported_languages": [],
-    "max_output_tokens": 4096,
-    "max_input_tokens": 131072,
-    "training_data_date": "",
-    "evaluation": "",
-    "license_description": "",
-    "static_model": false,
-    "supported_input_modalities": [],
-    "type": "model",
-    "model_url": "/marketplace/models/azureml-mistral/Mistral-large-2407",
-    "page": 2
-  },
-  {
     "id": "Ministral-3B",
     "registry": "azureml-mistral",
     "name": "Ministral 3B",
@@ -1293,7 +1230,7 @@
     "supported_input_modalities": [],
     "type": "model",
     "model_url": "/marketplace/models/azureml-meta/Meta-Llama-3-8B-Instruct",
-    "page": 3
+    "page": 2
   },
   {
     "id": "Meta-Llama-3-70B-Instruct",
@@ -1323,7 +1260,7 @@
     "supported_input_modalities": [],
     "type": "model",
     "model_url": "/marketplace/models/azureml-meta/Meta-Llama-3-70B-Instruct",
-    "page": 3
+    "page": 2
   },
   {
     "id": "Llama-3-3-70B-Instruct",
