@@ -1,5 +1,37 @@
 [
   {
+    "id": "mistral-medium-2505",
+    "registry": "azureml-mistral",
+    "name": "Mistral Medium 3 (25.05)",
+    "original_name": "mistral-medium-2505",
+    "friendly_name": "Mistral Medium 3 (25.05)",
+    "task": "chat-completion",
+    "publisher": "Mistral AI",
+    "license": "",
+    "description": "",
+    "summary": "Mistral Medium 3 is an advanced Large Language Model (LLM) with state-of-the-art reasoning, knowledge, coding and vision capabilities.",
+    "model_family": "unknown",
+    "model_version": "",
+    "notes": "",
+    "tags": [
+      "multipurpose",
+      "vision",
+      "multimodal"
+    ],
+    "rate_limit_tier": "",
+    "supported_languages": [],
+    "max_output_tokens": 4096,
+    "max_input_tokens": 128000,
+    "training_data_date": "",
+    "evaluation": "",
+    "license_description": "",
+    "static_model": false,
+    "supported_input_modalities": [],
+    "type": "model",
+    "model_url": "/marketplace/models/azureml-mistral/mistral-medium-2505",
+    "page": 1
+  },
+  {
     "id": "Phi-4-reasoning",
     "registry": "azureml",
     "name": "Phi-4-Reasoning",
@@ -635,7 +667,7 @@
     "supported_input_modalities": [],
     "type": "model",
     "model_url": "/marketplace/models/azureml/Phi-3-mini-4k-instruct",
-    "page": 1
+    "page": 2
   },
   {
     "id": "Phi-3-mini-128k-instruct",
@@ -1260,7 +1292,7 @@
     "supported_input_modalities": [],
     "type": "model",
     "model_url": "/marketplace/models/azureml-meta/Meta-Llama-3-70B-Instruct",
-    "page": 2
+    "page": 3
   },
   {
     "id": "Llama-3-3-70B-Instruct",
