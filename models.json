@@ -1,5 +1,37 @@
 [
   {
+    "id": "grok-3",
+    "registry": "azureml-xai",
+    "name": "Grok 3",
+    "original_name": "grok-3",
+    "friendly_name": "Grok 3",
+    "task": "chat-completion",
+    "publisher": "xAI",
+    "license": "",
+    "description": "",
+    "summary": "Grok 3 is xAI's debut model, pretrained by Colossus at supermassive scale to excel in specialized domains like finance, healthcare, and the law.",
+    "model_family": "unknown",
+    "model_version": "",
+    "notes": "",
+    "tags": [
+      "understanding",
+      "instruction",
+      "summarization"
+    ],
+    "rate_limit_tier": "",
+    "supported_languages": [],
+    "max_output_tokens": 4096,
+    "max_input_tokens": 131072,
+    "training_data_date": "",
+    "evaluation": "",
+    "license_description": "",
+    "static_model": false,
+    "supported_input_modalities": [],
+    "type": "model",
+    "model_url": "/marketplace/models/azureml-xai/grok-3",
+    "page": 1
+  },
+  {
     "id": "mistral-medium-2505",
     "registry": "azureml-mistral",
     "name": "Mistral Medium 3 (25.05)",
@@ -635,7 +667,7 @@
     "supported_input_modalities": [],
     "type": "model",
     "model_url": "/marketplace/models/azureml/Phi-3-small-128k-instruct",
-    "page": 1
+    "page": 2
   },
   {
     "id": "Phi-3-mini-4k-instruct",
@@ -1262,7 +1294,7 @@
     "supported_input_modalities": [],
     "type": "model",
     "model_url": "/marketplace/models/azureml-meta/Meta-Llama-3-8B-Instruct",
-    "page": 2
+    "page": 3
   },
   {
     "id": "Meta-Llama-3-70B-Instruct",
