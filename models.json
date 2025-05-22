@@ -1,5 +1,37 @@
 [
   {
+    "id": "grok-3-mini",
+    "registry": "azureml-xai",
+    "name": "Grok 3 Mini",
+    "original_name": "grok-3-mini",
+    "friendly_name": "Grok 3 Mini",
+    "task": "chat-completion",
+    "publisher": "xAI",
+    "license": "",
+    "description": "",
+    "summary": "Grok 3 Mini is a lightweight model that thinks before responding. Trained on mathematic and scientific problems, it is great for logic-based tasks.",
+    "model_family": "unknown",
+    "model_version": "",
+    "notes": "",
+    "tags": [
+      "agents",
+      "reasoning",
+      "coding"
+    ],
+    "rate_limit_tier": "",
+    "supported_languages": [],
+    "max_output_tokens": 4096,
+    "max_input_tokens": 131072,
+    "training_data_date": "",
+    "evaluation": "",
+    "license_description": "",
+    "static_model": false,
+    "supported_input_modalities": [],
+    "type": "model",
+    "model_url": "/marketplace/models/azureml-xai/grok-3-mini",
+    "page": 1
+  },
+  {
     "id": "grok-3",
     "registry": "azureml-xai",
     "name": "Grok 3",
@@ -635,7 +667,7 @@
     "supported_input_modalities": [],
     "type": "model",
     "model_url": "/marketplace/models/azureml/Phi-3-small-8k-instruct",
-    "page": 1
+    "page": 2
   },
   {
     "id": "Phi-3-small-128k-instruct",
@@ -1264,7 +1296,7 @@
     "supported_input_modalities": [],
     "type": "model",
     "model_url": "/marketplace/models/azureml-meta/Meta-Llama-3-1-405B-Instruct",
-    "page": 2
+    "page": 3
   },
   {
     "id": "Meta-Llama-3-8B-Instruct",
