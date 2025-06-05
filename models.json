@@ -1,5 +1,37 @@
 [
   {
+    "id": "DeepSeek-R1-0528",
+    "registry": "azureml-deepseek",
+    "name": "DeepSeek-R1-0528",
+    "original_name": "DeepSeek-R1-0528",
+    "friendly_name": "DeepSeek-R1-0528",
+    "task": "chat-completion",
+    "publisher": "DeepSeek",
+    "license": "",
+    "description": "",
+    "summary": "The DeepSeek R1 0528 model has improved reasoning capabilities, this version also offers a reduced hallucination rate, enhanced support for function calling, and better experience for vibe coding.",
+    "model_family": "unknown",
+    "model_version": "",
+    "notes": "",
+    "tags": [
+      "reasoning",
+      " coding",
+      " agents"
+    ],
+    "rate_limit_tier": "",
+    "supported_languages": [],
+    "max_output_tokens": 4096,
+    "max_input_tokens": 128000,
+    "training_data_date": "",
+    "evaluation": "",
+    "license_description": "",
+    "static_model": false,
+    "supported_input_modalities": [],
+    "type": "model",
+    "model_url": "/marketplace/models/azureml-deepseek/DeepSeek-R1-0528",
+    "page": 1
+  },
+  {
     "id": "grok-3-mini",
     "registry": "azureml-xai",
     "name": "Grok 3 Mini",
@@ -462,8 +494,8 @@
     "notes": "",
     "tags": [
       "vision",
-      " audio",
-      " summarization"
+      "audio",
+      "summarization"
     ],
     "rate_limit_tier": "",
     "supported_languages": [],
@@ -636,7 +668,7 @@
     "supported_input_modalities": [],
     "type": "model",
     "model_url": "/marketplace/models/azureml/Phi-3-5-mini-instruct",
-    "page": 1
+    "page": 2
   },
   {
     "id": "Phi-3-small-8k-instruct",
@@ -1266,7 +1298,7 @@
     "supported_input_modalities": [],
     "type": "model",
     "model_url": "/marketplace/models/azureml-meta/Meta-Llama-3-1-70B-Instruct",
-    "page": 2
+    "page": 3
   },
   {
     "id": "Meta-Llama-3-1-405B-Instruct",
