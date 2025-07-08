@@ -15,8 +15,8 @@
     "notes": "",
     "tags": [
       "reasoning",
-      " coding",
-      " agents"
+      "coding",
+      "agents"
     ],
     "rate_limit_tier": "",
     "supported_languages": [],
@@ -47,8 +47,8 @@
     "notes": "",
     "tags": [
       "agents",
-      " reasoning",
-      " coding"
+      "reasoning",
+      "coding"
     ],
     "rate_limit_tier": "",
     "supported_languages": [],
@@ -79,8 +79,8 @@
     "notes": "",
     "tags": [
       "understanding",
-      " instruction",
-      " summarization"
+      "instruction",
+      "summarization"
     ],
     "rate_limit_tier": "",
     "supported_languages": [],
@@ -111,8 +111,7 @@
     "notes": "",
     "tags": [
       "multipurpose",
-      "vision",
-      "multimodal"
+      "vision"
     ],
     "rate_limit_tier": "",
     "supported_languages": [],
@@ -143,8 +142,8 @@
     "notes": "",
     "tags": [
       "reasoning",
-      " large context",
-      " low latency"
+      "large context",
+      "low latency"
     ],
     "rate_limit_tier": "",
     "supported_languages": [],
@@ -175,8 +174,8 @@
     "notes": "",
     "tags": [
       "reasoning",
-      " large context",
-      " low latency"
+      "large context",
+      "low latency"
     ],
     "rate_limit_tier": "",
     "supported_languages": [],
@@ -207,8 +206,8 @@
     "notes": "",
     "tags": [
       "reasoning",
-      " coding",
-      " agents"
+      "coding",
+      "agents"
     ],
     "rate_limit_tier": "",
     "supported_languages": [],
@@ -239,8 +238,8 @@
     "notes": "",
     "tags": [
       "multipurpose",
-      " multilingual",
-      " multimodal"
+      "multilingual",
+      "multimodal"
     ],
     "rate_limit_tier": "",
     "supported_languages": [],
@@ -271,8 +270,8 @@
     "notes": "",
     "tags": [
       "multipurpose",
-      " multilingual",
-      " multimodal"
+      "multilingual",
+      "multimodal"
     ],
     "rate_limit_tier": "",
     "supported_languages": [],
@@ -334,8 +333,8 @@
     "notes": "",
     "tags": [
       "multipurpose",
-      " multilingual",
-      " multimodal"
+      "multilingual",
+      "multimodal"
     ],
     "rate_limit_tier": "",
     "supported_languages": [],
@@ -366,8 +365,8 @@
     "notes": "",
     "tags": [
       "multipurpose",
-      " multilingual",
-      " multimodal"
+      "multilingual",
+      "multimodal"
     ],
     "rate_limit_tier": "",
     "supported_languages": [],
@@ -398,8 +397,8 @@
     "notes": "",
     "tags": [
       "multipurpose",
-      " multilingual",
-      " multimodal"
+      "multilingual",
+      "multimodal"
     ],
     "rate_limit_tier": "",
     "supported_languages": [],
@@ -430,8 +429,8 @@
     "notes": "",
     "tags": [
       "multimodal",
-      " conversation",
-      " multilingual"
+      "conversation",
+      "multilingual"
     ],
     "rate_limit_tier": "",
     "supported_languages": [],
@@ -462,8 +461,8 @@
     "notes": "",
     "tags": [
       "multimodal",
-      " conversation",
-      " multilingual"
+      "conversation",
+      "multilingual"
     ],
     "rate_limit_tier": "",
     "supported_languages": [],
@@ -936,8 +935,8 @@
     "notes": "",
     "tags": [
       "reasoning",
-      " multilingual",
-      " coding"
+      "multilingual",
+      "coding"
     ],
     "rate_limit_tier": "",
     "supported_languages": [],
@@ -968,8 +967,8 @@
     "notes": "",
     "tags": [
       "reasoning",
-      " multilingual",
-      " coding"
+      "multilingual",
+      "coding"
     ],
     "rate_limit_tier": "",
     "supported_languages": [],
@@ -1000,8 +999,8 @@
     "notes": "",
     "tags": [
       "reasoning",
-      " multilingual",
-      " coding"
+      "multilingual",
+      "coding"
     ],
     "rate_limit_tier": "",
     "supported_languages": [],
@@ -1032,8 +1031,8 @@
     "notes": "",
     "tags": [
       "reasoning",
-      " multilingual",
-      " coding"
+      "multilingual",
+      "coding"
     ],
     "rate_limit_tier": "",
     "supported_languages": [],
@@ -1064,8 +1063,8 @@
     "notes": "",
     "tags": [
       "multipurpose",
-      " multilingual",
-      " multimodal"
+      "multilingual",
+      "multimodal"
     ],
     "rate_limit_tier": "",
     "supported_languages": [],
@@ -1096,8 +1095,8 @@
     "notes": "",
     "tags": [
       "multipurpose",
-      " multilingual",
-      " multimodal"
+      "multilingual",
+      "multimodal"
     ],
     "rate_limit_tier": "",
     "supported_languages": [],
@@ -1378,8 +1377,8 @@
     "notes": "",
     "tags": [
       "multimodal",
-      " reasoning",
-      " conversation"
+      "reasoning",
+      "conversation"
     ],
     "rate_limit_tier": "",
     "supported_languages": [],
@@ -1442,7 +1441,7 @@
     "notes": "",
     "tags": [
       "coding",
-      " agents"
+      "agents"
     ],
     "rate_limit_tier": "",
     "supported_languages": [],
@@ -1473,8 +1472,8 @@
     "notes": "",
     "tags": [
       "reasoning",
-      " coding",
-      " agents"
+      "coding",
+      "agents"
     ],
     "rate_limit_tier": "",
     "supported_languages": [],
@@ -1658,8 +1657,8 @@
     "notes": "",
     "tags": [
       "rag",
-      " multilingual",
-      " large context"
+      "multilingual",
+      "large context"
     ],
     "rate_limit_tier": "",
     "supported_languages": [],
@@ -1690,8 +1689,8 @@
     "notes": "",
     "tags": [
       "rag",
-      " multilingual",
-      " large context"
+      "multilingual",
+      "large context"
     ],
     "rate_limit_tier": "",
     "supported_languages": [],
