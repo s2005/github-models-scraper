@@ -1,5 +1,133 @@
 [
   {
+    "id": "gpt-5-nano",
+    "registry": "azure-openai",
+    "name": "OpenAI gpt-5-nano",
+    "original_name": "gpt-5-nano",
+    "friendly_name": "OpenAI gpt-5-nano",
+    "task": "chat-completion",
+    "publisher": "OpenAI",
+    "license": "",
+    "description": "",
+    "summary": "gpt-5-nano is optimized for speed, ideal for applications requiring low latency. ",
+    "model_family": "unknown",
+    "model_version": "",
+    "notes": "",
+    "tags": [
+      "multipurpose",
+      "multilingual",
+      "multimodal"
+    ],
+    "rate_limit_tier": "",
+    "supported_languages": [],
+    "max_output_tokens": 100000,
+    "max_input_tokens": 200000,
+    "training_data_date": "",
+    "evaluation": "",
+    "license_description": "",
+    "static_model": false,
+    "supported_input_modalities": [],
+    "type": "model",
+    "model_url": "/marketplace/models/azure-openai/gpt-5-nano",
+    "page": 1
+  },
+  {
+    "id": "gpt-5-mini",
+    "registry": "azure-openai",
+    "name": "OpenAI gpt-5-mini",
+    "original_name": "gpt-5-mini",
+    "friendly_name": "OpenAI gpt-5-mini",
+    "task": "chat-completion",
+    "publisher": "OpenAI",
+    "license": "",
+    "description": "",
+    "summary": "gpt-5-mini is a lightweight version for cost-sensitive applications.",
+    "model_family": "unknown",
+    "model_version": "",
+    "notes": "",
+    "tags": [
+      "multipurpose",
+      "multilingual",
+      "multimodal"
+    ],
+    "rate_limit_tier": "",
+    "supported_languages": [],
+    "max_output_tokens": 100000,
+    "max_input_tokens": 200000,
+    "training_data_date": "",
+    "evaluation": "",
+    "license_description": "",
+    "static_model": false,
+    "supported_input_modalities": [],
+    "type": "model",
+    "model_url": "/marketplace/models/azure-openai/gpt-5-mini",
+    "page": 1
+  },
+  {
+    "id": "gpt-5-chat",
+    "registry": "azure-openai",
+    "name": "OpenAI gpt-5-chat (preview)",
+    "original_name": "gpt-5-chat",
+    "friendly_name": "OpenAI gpt-5-chat (preview)",
+    "task": "chat-completion",
+    "publisher": "OpenAI",
+    "license": "",
+    "description": "",
+    "summary": "gpt-5-chat (preview) is an advanced, natural, multimodal, and context-aware conversations for enterprise applications.",
+    "model_family": "unknown",
+    "model_version": "",
+    "notes": "",
+    "tags": [
+      "multipurpose",
+      "multilingual",
+      "multimodal"
+    ],
+    "rate_limit_tier": "",
+    "supported_languages": [],
+    "max_output_tokens": 100000,
+    "max_input_tokens": 200000,
+    "training_data_date": "",
+    "evaluation": "",
+    "license_description": "",
+    "static_model": false,
+    "supported_input_modalities": [],
+    "type": "model",
+    "model_url": "/marketplace/models/azure-openai/gpt-5-chat",
+    "page": 1
+  },
+  {
+    "id": "gpt-5",
+    "registry": "azure-openai",
+    "name": "OpenAI gpt-5",
+    "original_name": "gpt-5",
+    "friendly_name": "OpenAI gpt-5",
+    "task": "chat-completion",
+    "publisher": "OpenAI",
+    "license": "",
+    "description": "",
+    "summary": "gpt-5 is designed for logic-heavy and multi-step tasks. ",
+    "model_family": "unknown",
+    "model_version": "",
+    "notes": "",
+    "tags": [
+      "multipurpose",
+      "multilingual",
+      "multimodal"
+    ],
+    "rate_limit_tier": "",
+    "supported_languages": [],
+    "max_output_tokens": 100000,
+    "max_input_tokens": 200000,
+    "training_data_date": "",
+    "evaluation": "",
+    "license_description": "",
+    "static_model": false,
+    "supported_input_modalities": [],
+    "type": "model",
+    "model_url": "/marketplace/models/azure-openai/gpt-5",
+    "page": 1
+  },
+  {
     "id": "DeepSeek-R1-0528",
     "registry": "azureml-deepseek",
     "name": "DeepSeek-R1-0528",
@@ -539,7 +667,7 @@
     "supported_input_modalities": [],
     "type": "model",
     "model_url": "/marketplace/models/azureml/Phi-4-mini-instruct",
-    "page": 1
+    "page": 2
   },
   {
     "id": "Phi-4",
@@ -571,7 +699,7 @@
     "supported_input_modalities": [],
     "type": "model",
     "model_url": "/marketplace/models/azureml/Phi-4",
-    "page": 1
+    "page": 2
   },
   {
     "id": "Phi-3-5-vision-instruct",
@@ -603,7 +731,7 @@
     "supported_input_modalities": [],
     "type": "model",
     "model_url": "/marketplace/models/azureml/Phi-3-5-vision-instruct",
-    "page": 1
+    "page": 2
   },
   {
     "id": "Phi-3-5-MoE-instruct",
@@ -635,7 +763,7 @@
     "supported_input_modalities": [],
     "type": "model",
     "model_url": "/marketplace/models/azureml/Phi-3-5-MoE-instruct",
-    "page": 1
+    "page": 2
   },
   {
     "id": "Phi-3-5-mini-instruct",
@@ -1173,7 +1301,7 @@
     "supported_input_modalities": [],
     "type": "model",
     "model_url": "/marketplace/models/azureml-mistral/Mistral-Nemo",
-    "page": 2
+    "page": 3
   },
   {
     "id": "Mistral-Large-2411",
@@ -1205,7 +1333,7 @@
     "supported_input_modalities": [],
     "type": "model",
     "model_url": "/marketplace/models/azureml-mistral/Mistral-Large-2411",
-    "page": 2
+    "page": 3
   },
   {
     "id": "Ministral-3B",
@@ -1237,7 +1365,7 @@
     "supported_input_modalities": [],
     "type": "model",
     "model_url": "/marketplace/models/azureml-mistral/Ministral-3B",
-    "page": 2
+    "page": 3
   },
   {
     "id": "Meta-Llama-3-1-8B-Instruct",
@@ -1267,7 +1395,7 @@
     "supported_input_modalities": [],
     "type": "model",
     "model_url": "/marketplace/models/azureml-meta/Meta-Llama-3-1-8B-Instruct",
-    "page": 2
+    "page": 3
   },
   {
     "id": "Meta-Llama-3-1-405B-Instruct",
