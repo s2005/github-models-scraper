@@ -257,9 +257,9 @@
   {
     "id": "Phi-4-reasoning",
     "registry": "azureml",
-    "name": "Phi-4-Reasoning",
+    "name": "Phi-4-reasoning",
     "original_name": "Phi-4-reasoning",
-    "friendly_name": "Phi-4-Reasoning",
+    "friendly_name": "Phi-4-reasoning",
     "task": "chat-completion",
     "publisher": "Microsoft",
     "license": "",
