@@ -986,70 +986,6 @@
     "page": 2
   },
   {
-    "id": "Mistral-Nemo",
-    "registry": "azureml-mistral",
-    "name": "Mistral Nemo",
-    "original_name": "Mistral-Nemo",
-    "friendly_name": "Mistral Nemo",
-    "task": "chat-completion",
-    "publisher": "Mistral AI",
-    "license": "",
-    "description": "",
-    "summary": "Mistral Nemo is a cutting-edge Language Model (LLM) boasting state-of-the-art reasoning, world knowledge, and coding capabilities within its size category.",
-    "model_family": "unknown",
-    "model_version": "",
-    "notes": "",
-    "tags": [
-      "reasoning",
-      "rag",
-      "agents"
-    ],
-    "rate_limit_tier": "",
-    "supported_languages": [],
-    "max_output_tokens": 4096,
-    "max_input_tokens": 131072,
-    "training_data_date": "",
-    "evaluation": "",
-    "license_description": "",
-    "static_model": false,
-    "supported_input_modalities": [],
-    "type": "model",
-    "model_url": "/marketplace/models/azureml-mistral/Mistral-Nemo",
-    "page": 2
-  },
-  {
-    "id": "Mistral-Large-2411",
-    "registry": "azureml-mistral",
-    "name": "Mistral Large 24.11",
-    "original_name": "Mistral-Large-2411",
-    "friendly_name": "Mistral Large 24.11",
-    "task": "chat-completion",
-    "publisher": "Mistral AI",
-    "license": "",
-    "description": "",
-    "summary": "Mistral Large 24.11 offers enhanced system prompts, advanced reasoning and function calling capabilities.",
-    "model_family": "unknown",
-    "model_version": "",
-    "notes": "",
-    "tags": [
-      "reasoning",
-      "rag",
-      "agents"
-    ],
-    "rate_limit_tier": "",
-    "supported_languages": [],
-    "max_output_tokens": 4096,
-    "max_input_tokens": 128000,
-    "training_data_date": "",
-    "evaluation": "",
-    "license_description": "",
-    "static_model": false,
-    "supported_input_modalities": [],
-    "type": "model",
-    "model_url": "/marketplace/models/azureml-mistral/Mistral-Large-2411",
-    "page": 2
-  },
-  {
     "id": "Ministral-3B",
     "registry": "azureml-mistral",
     "name": "Ministral 3B",
@@ -1236,38 +1172,6 @@
     "page": 2
   },
   {
-    "id": "jais-30b-chat",
-    "registry": "azureml-core42",
-    "name": "JAIS 30b Chat",
-    "original_name": "jais-30b-chat",
-    "friendly_name": "JAIS 30b Chat",
-    "task": "chat-completion",
-    "publisher": "Core42",
-    "license": "",
-    "description": "",
-    "summary": "JAIS 30b Chat is an auto-regressive bilingual LLM for Arabic & English with state-of-the-art capabilities in Arabic.",
-    "model_family": "unknown",
-    "model_version": "",
-    "notes": "",
-    "tags": [
-      "conversation",
-      "multilingual",
-      "rag"
-    ],
-    "rate_limit_tier": "",
-    "supported_languages": [],
-    "max_output_tokens": 4096,
-    "max_input_tokens": 8192,
-    "training_data_date": "",
-    "evaluation": "",
-    "license_description": "",
-    "static_model": false,
-    "supported_input_modalities": [],
-    "type": "model",
-    "model_url": "/marketplace/models/azureml-core42/jais-30b-chat",
-    "page": 2
-  },
-  {
     "id": "DeepSeek-V3-0324",
     "registry": "azureml-deepseek",
     "name": "DeepSeek-V3-0324",
@@ -1296,7 +1200,7 @@
     "supported_input_modalities": [],
     "type": "model",
     "model_url": "/marketplace/models/azureml-deepseek/DeepSeek-V3-0324",
-    "page": 3
+    "page": 2
   },
   {
     "id": "DeepSeek-R1",
@@ -1328,7 +1232,7 @@
     "supported_input_modalities": [],
     "type": "model",
     "model_url": "/marketplace/models/azureml-deepseek/DeepSeek-R1",
-    "page": 3
+    "page": 2
   },
   {
     "id": "Cohere-embed-v3-multilingual",
@@ -1358,7 +1262,7 @@
     "supported_input_modalities": [],
     "type": "model",
     "model_url": "/marketplace/models/azureml-cohere/Cohere-embed-v3-multilingual",
-    "page": 3
+    "page": 2
   },
   {
     "id": "Cohere-embed-v3-english",
